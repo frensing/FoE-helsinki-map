@@ -28,6 +28,8 @@ Texts needs to be put in quotation marks, as seen for the name and color.
 ## Local test
 Download and edit the `map.html` file on your computer with a text editor of your choice. The only changes should be in the definiton of the `points` after line 16.
 
-To view the map just open the file in a browser (for example by double-clicking).
+To view the map just open the file in a browser (for example by double-clicking the file in the file explorer).
 
 As help for figuring out the coordinates for lat and lon you can click anywhere on the map and a popup will tell you the coordinates at that spot which you can copy into the points definiton.
+
+After changing and saving the `map.html` file, reload the browser window with the reload button or F5 key.
