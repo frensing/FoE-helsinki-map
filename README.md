@@ -26,7 +26,7 @@ The color is optional and the line can be deleted. The default color is a light 
 Texts needs to be put in quotation marks, as seen for the name and color.
 
 ## Local test
-Download and edit the map on your computer with a text editor of your choice. The only changes should be in the definiton of the `points` after line 16.
+Download and edit the `map.html` file on your computer with a text editor of your choice. The only changes should be in the definiton of the `points` after line 16.
 
 To view the map just open the file in a browser (for example by double-clicking).
 
