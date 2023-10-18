@@ -1,6 +1,8 @@
 # FoE - simple Leaflet map
 This is a simple example setup of a [Leaflet](https://leafletjs.com) map using OpenStreetMap tiles in a single HTML page.
 
+![Screenshot of example map](screenshot.png)
+
 The markers are defined with latitude, longitude, and a name, which is displayed in a popup when the marker is clicked. Additionally a color for the makrer can be provided.
 
 The marker positons are defined in the beginning of the file following line 16. To extend the list simply add a new descriptions in the one of the following formats (either with a color definition or not):
